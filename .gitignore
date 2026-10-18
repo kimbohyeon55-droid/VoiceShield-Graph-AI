@@ -1,0 +1,14 @@
+# Documentation-only publication allowlist. Review the actual payload before staging.
+/*
+!/.gitignore
+!/README.md
+!/docs/
+/docs/*
+!/docs/ARCHITECTURE.md
+!/docs/DEVELOPMENT_WORKFLOW.md
+!/docs/CONTRIBUTIONS.md
+!/docs/AI_ASSISTANCE.md
+!/docs/DATA_GOVERNANCE.md
+!/docs/PROJECT_STATUS.md
+!/docs/PUBLICATION_SCOPE.md
+!/docs/REFERENCES.md
